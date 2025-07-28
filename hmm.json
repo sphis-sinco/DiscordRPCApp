@@ -1,13 +1,6 @@
 {
   "dependencies": [
     {
-      "name": "Juil",
-      "type": "git",
-      "dir": null,
-      "ref": "main",
-      "url": "https://github.com/Tesolotik/Juil"
-    },
-    {
       "name": "discord_rpc",
       "type": "git",
       "dir": null,
@@ -20,9 +13,23 @@
       "version": null
     },
     {
+      "name": "https://github.com/Tesolotik/Juil",
+      "type": "git",
+      "dir": null,
+      "ref": null,
+      "url": "main"
+    },
+    {
       "name": "hxcpp",
       "type": "haxelib",
       "version": null
+    },
+    {
+      "name": "juil",
+      "type": "git",
+      "dir": null,
+      "ref": "main",
+      "url": "https://github.com/Teslotik/Juil"
     },
     {
       "name": "lime",
