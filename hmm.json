@@ -13,9 +13,11 @@
       "version": null
     },
     {
-      "name": "flixel-ui",
-      "type": "haxelib",
-      "version": null
+      "name": "juil",
+      "type": "git",
+      "dir": null,
+      "ref": "main",
+      "url": "https://github.com/Teslotik/Juil"
     }
   ]
 }
